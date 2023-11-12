@@ -13,6 +13,4 @@ For both the USS DC part and SIPP investor, I consider someone using a fairly "m
 
 For ease of comparison, the USS DB cash lump sum and USS DC parts are assumed to be used to purchase a single lifetime inflation-linked annuity for someone at retirement age. For simplicity it is assumed that all future USS DB payments increase following inflation, approximating that the inflation caps do not come into play.
 
-Equations and calculations are included in the Jupyter notebook contained in this repo, in the form of python3 code.
-
-All amounts are given in units of current total salary (i.e. the payments that would be expected for each £1 of salary earnt) in inflation-adjusted terms. 
+Equations and calculations are included in the Jupyter notebook contained in this repo, in the form of python3 code. 
