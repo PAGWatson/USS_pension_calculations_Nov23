@@ -13,4 +13,4 @@ For both the USS DC part and SIPP investor, I consider someone using a fairly "m
 
 For ease of comparison, the USS DB cash lump sum and USS DC parts are assumed to be used to purchase a single lifetime inflation-linked annuity for someone at retirement age (with 5.5% yield, the best available on a comparison site). For simplicity it is assumed that all future USS DB payments increase following inflation, approximating that the inflation caps do not come into play. Expected investment returns in the DC scheme and personal pension are set to 4.9% for stocks and 1.6% for government bonds: the historical average real returns over 1900-2022 from the Credit Suisse Yearbook 2023 summary, minus 0.1% for typical investment charges.
 
-Equations and calculations are included in the Jupyter notebook contained in this repo, in the form of python3 code. 
+Equations and calculations are included in the Jupyter notebook contained in this repo, in the form of python3 code. The calculations contained therein are simplified and are not meant to be precise – they’re just to illustrate some main qualitative points.
